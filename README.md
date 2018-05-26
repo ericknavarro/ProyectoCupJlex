@@ -4,8 +4,6 @@
  * Septiembre - 2015
  */
 
-#############        NOTAS IMPORTANTES        #############
-
 Este proyecto fue desarrollado con:
 
 * JAVA						          (Lenguaje de programación)
