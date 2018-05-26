@@ -1,9 +1,7 @@
-/*
  * Ejemplo desarrollado por Erick Navarro
  * Blog: e-navarro.blogspot.com
  * Septiembre - 2015
- */
-
+ 
 Este proyecto fue desarrollado con:
 
 * JAVA						          (Lenguaje de programación)
